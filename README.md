@@ -1,2 +1,2 @@
 # RayTracing
-Repository for CS296
+Raytracer repository
